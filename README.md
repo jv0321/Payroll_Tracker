@@ -56,13 +56,13 @@ cd Payroll_Tracker
 
 Open index.html in your browser to view the application.
 
-Usage
+## Usage
 Open the app in your browser.
 Use the provided interface to:
 Add, update, or delete employee payroll data.
 View an organized table of all payroll records.
 
-Project Structure
+## Project Structure
 graphql
 Copy code
 Payroll_Tracker/
@@ -75,26 +75,33 @@ Payroll_Tracker/
 └── README.md        # Project documentation
 
 
-Contributing
+## Contribution
 Contributions are welcome! Follow these steps:
-Fork the repository.
-Create a new branch:
-bash
-Copy code
+- Fork the repository.
+- Create a new branch:
+- bash
+- Copy code
 git checkout -b feature-name
 
 
 Commit your changes:
-bash
-Copy code
+- bash
+- Copy code
 git commit -m "Add your message here"
 
 
 Push to the branch:
-bash
-Copy code
+- bash
+- Copy code
 git push origin feature-name
+Open a pull request.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+Created by Juan
+Feel free to reach out for support or collaboration!
 
 Open a pull request.
 
